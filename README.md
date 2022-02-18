@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 
@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Feel free to check my portfolio page! https://carbotton.github.io/
+#### Feel free to check my portfolio page! https://carbotton.github.io/
